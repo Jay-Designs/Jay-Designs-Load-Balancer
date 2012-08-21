@@ -1,0 +1,21 @@
+{
+  "name": "Jay-Designs-Load-Balancer",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jay-Designs/Jay-Designs-Load-Balancer.git"
+  },
+  "keywords": [
+    "Jay-Designs",
+    "Load",
+    "Balancer"
+  ],
+  "author": "Jason Sweeney",
+  "license": "Jay-Designs",
+  "description": "This is our Load Balancer built on Node.js"
+}
